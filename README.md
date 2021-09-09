@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MinJE&fontSize=90)
 
 ### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjekang&&show_icons=true&theme=default)
-    ![MinJe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjekang&layout=compact)
