@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjekang&&show_icons=true&theme=default)
+    ![MinJe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjekang&layout=compact)
