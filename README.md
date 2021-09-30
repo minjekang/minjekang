@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinJE&fontSize=42)
 
-<h1 >Hi💪
+# ***MinJe***
+
+<br>
+
+
+
+<h2 >Hi💪
 
 ##### My name is Kang Min-je, 
 ##### who is dreaming of becoming a web front-end developer.
@@ -28,7 +33,7 @@ Here are some ideas to get you started:
      <a><img src="https://img.shields.io/badge/CSS-8d6e63?style=flat-square&logo=CSS&logoColor=white"/></a>
      <a><img src="https://img.shields.io/badge/JavaScript-8d6e63?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>   
-<h1>
+<h2>
 
 
 
