@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # ***MinJe***
 
-<br>
-
 
 
 <h2 >Hi💪
