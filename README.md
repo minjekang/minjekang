@@ -19,22 +19,23 @@ Here are some ideas to get you started:
 
 
 
-<h2 >Hi💪
+<h2 >Hey
 
 ##### My name is Kang Min-je, 
 ##### who is dreaming of becoming a web front-end developer.
-<h2 >Skills<h2>
-<div >
-     <a><img src="https://img.shields.io/badge/Python-fff59d?style=flat-square&logo=Python&logoColor=black"/></a>
-     <a><img src="https://img.shields.io/badge/Java-fff59d?style=flat-square&logo=Java&logoColor=black"/></a><br>
-     <a><img src="https://img.shields.io/badge/HTML5-8d6e63?style=flat-square&logo=HTML5&logoColor=white"/></a>
-     <a><img src="https://img.shields.io/badge/CSS-8d6e63?style=flat-square&logo=CSS&logoColor=white"/></a>
-     <a><img src="https://img.shields.io/badge/JavaScript-8d6e63?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-</div>   
+  
 <h2>
 
 
-
+<h2>
+     <div >
+          <a><img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=white"/></a>
+          <a><img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS&logoColor=white"/></a>
+          <a><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
+          <a><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
+          <a><img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"/></a>
+     </div> 
+</h2>
 
 
 
