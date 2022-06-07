@@ -25,18 +25,7 @@ Here are some ideas to get you started:
 ###### who is dreaming of becoming a web front-end developer.
 ###### GET stick bugged LOL 
   
-<h2>
 
-
-<h2>
-     <div >
-          <a><img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&logoColor=white"/></a>
-          <a><img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS&logoColor=white"/></a>
-          <a><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-          <a><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
-          <a><img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"/></a>
-     </div> 
-</h2>
 
 
 
