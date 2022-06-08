@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2>Hi
 
 ###### My name is Kang Min je, 
-###### who is dreaming of becoming a web front-end developer.
+###### who is dreaming of becoming a web front-end developer
 ###### GET stick bugged LOL 
   
 
