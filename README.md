@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ###### My name is Kang Min je, 
 ###### who is dreaming of becoming a web front-end developer
-###### GET stick bugged LOL 
-  
 
 
 
