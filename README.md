@@ -1,11 +1,5 @@
-# ***MinJe***
-
-
-
-<h2>Hi
-
-###### My name is Kang Min je, 
-###### who is dreaming of becoming a web front-end developer
+### 안녕하세요
+##### 나는 프론트엔드 개발자를 꿈꾼다. 😪
 
 
 
